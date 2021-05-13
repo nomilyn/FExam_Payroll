@@ -1,0 +1,84 @@
+P A Y   S L I P
+Employee ID : 101
+Full Name : Nomilyn Cayton
+Employee Type : F
+Gross Salary : 2375.0
+Deductions : 19.2
+Net Salary : 2355.8
+=====================================================
+P A Y   S L I P
+Employee ID : 102
+Full Name : Ruel Cayton
+Employee Type : F
+Gross Salary : 3250.0
+Deductions : 220.5
+Net Salary : 3029.5
+=====================================================
+P A Y   S L I P
+Employee ID : 103
+Full Name : Duel Cayton
+Employee Type : F
+Gross Salary : 19000.0
+Deductions : 4158.0
+Net Salary : 14842.0
+=====================================================
+P A Y   S L I P
+Employee ID : 104
+Full Name : Miel Miles
+Employee Type : F
+Gross Salary : 1100.0
+Deductions : 19.2
+Net Salary : 1080.8
+=====================================================
+P A Y   S L I P
+Employee ID : 105
+Full Name : Nathania Miel
+Employee Type : f
+Gross Salary : 1600.0
+Deductions : 19.2
+Net Salary : 1580.8
+=====================================================
+P A Y   S L I P
+Employee ID : 106
+Full Name : Kyle Taylor
+Employee Type : f
+Gross Salary : 10600.0
+Deductions : 2058.0
+Net Salary : 8542.0
+=====================================================
+P A Y   S L I P
+Employee ID : 107
+Full Name : Mariela James
+Employee Type : n
+Gross Salary : 1250.0
+Deductions : 19.2
+Net Salary : 1230.8
+=====================================================
+P A Y   S L I P
+Employee ID : 108
+Full Name : Judy Elliot
+Employee Type : n
+Gross Salary : 3000.0
+Deductions : 144.2
+Net Salary : 2855.8
+=====================================================
+P A Y   S L I P
+Employee ID : 109
+Full Name : Alicia Bond
+Employee Type : n
+Gross Salary : 4500.0
+Deductions : 533.0
+Net Salary : 3967.0
+=====================================================
+P A Y   S L I P
+Employee ID : 110
+Full Name : Hailey Smith
+Employee Type : n
+Gross Salary : 6375.0
+Deductions : 1001.75
+Net Salary : 5373.25
+=====================================================
+
+Total Number of Faculty Employees : 6
+Total Number of Non Faculty Employees : 4
+Total Number of ALL Employees : 10
